@@ -1,0 +1,6 @@
+en:
+  message:
+    hello: this message is printed from rootdata.yml!
+ja:
+  message:
+    hello: このメッセージはrootdata.ymlから出力されます！

@@ -1,0 +1,8 @@
+{
+    "en": {
+      "hello": "this message is printed from mytext.json!"
+    },
+    "ja": {
+      "hello": "このメッセージはmytext.jsonから出力されます。"
+    }
+}
