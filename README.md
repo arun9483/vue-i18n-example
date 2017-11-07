@@ -24,10 +24,10 @@ npm run unit
 npm test
 ```
 ## Main components path
-*src/main.js
-*src/App.vue
-*src/components/HelloWorld.vue
-*src/components/mytext.json
-*src/components/mytext.yml
+* src/main.js
+* src/App.vue
+* src/components/HelloWorld.vue
+* src/components/mytext.json
+* src/components/mytext.yml
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
