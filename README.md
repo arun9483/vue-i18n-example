@@ -1,6 +1,6 @@
 # vue-i18n-example
 
-> A Vue.js project
+> A Vue.js project to demonstrate integration of yml and json file inside i18n tag using vue-i18n
 
 ## Build Setup
 
@@ -23,5 +23,11 @@ npm run unit
 # run all tests
 npm test
 ```
+## Main components path
+*src/main.js
+*src/App.vue
+*src/components/HelloWorld.vue
+*src/components/mytext.json
+*src/components/mytext.yml
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
