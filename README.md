@@ -23,7 +23,7 @@ npm run unit
 # run all tests
 npm test
 ```
-## Main components path
+## paths of some important files
 * src/main.js
 * src/App.vue
 * src/components/HelloWorld.vue
